@@ -1,4 +1,3 @@
-```markdown
 # Secure Text Transfer
 
 This project implements a simple message processing system that allows users to send and receive messages seamlessly. 
@@ -41,5 +40,6 @@ This project is licensed under the MIT License.
 For any inquiries, suggestions, or feedback, please contact me at:
 
 - Email: evitabarboza195@gmail.com
-- GitHub: Evita Barboza or msranjana
+- GitHub 1: Evita Barboza
+- Github 2: msranjana
 ```
