@@ -40,6 +40,6 @@ This project is licensed under the MIT License.
 For any inquiries, suggestions, or feedback, please contact me at:
 
 - Email: evitabarboza195@gmail.com
-- GitHub 1: Evita Barboza
-- Github 2: msranjana
+- GitHub 1: (https://github.com/evitabarboza)  
+- GitHub 2:(https://github.com/msranjana)
 ```
